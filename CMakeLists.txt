@@ -23,6 +23,7 @@ add_message_files(
   FILES
   GenericRanging.msg
   Ranging.msg
+  Ranging_Vehicle.msg
   UWBRanging.msg
   DWRanging.msg
   PozyxRanging.msg
